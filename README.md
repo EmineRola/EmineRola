@@ -13,5 +13,3 @@
 
 
 
-[![[Instagram Badge](https://instagram.com/emine_gucluerr?igshid=YWJhMjlhZTc=)](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=[link](https://instagram.com/emine_gucluerr?igshid=YWJhMjlhZTc=))]([link](https://instagram.com/emine_gucluerr?igshid=YWJhMjlhZTc=)) 
-   
