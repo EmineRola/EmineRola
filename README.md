@@ -4,18 +4,19 @@
 - 👯 I am highly motivated, organized, and I can work well, both independently and as part of a team.
 - ⚡ I am open to learning and I follow new technologies closely.
 
- Tech Stack
  
- <p align="center">
-      
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmineRola&layout=compact&langs_count=8&theme=highcontrast"/>
-     
-</p>
+ 
 
  Visitors
-
-<p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmineRola&theme=blue-green&show_icons=true&count_private=true)"/>
+<p align="center"
+        
+   Tech Stack
+ 
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmineRola&layout=compact&langs_count=8&theme=highcontrast"/>
+       
+        Visitors
+      
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmineRola&theme=blue-green&show_icons=true&count_private=true)"/>
      
 </p>
 
