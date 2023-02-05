@@ -5,6 +5,8 @@
 - ⚡ I am open to learning and I follow new technologies closely.
  
  
+ 
+ 
 <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmineRola&theme=gotham&show_icons=true&count_private=true)"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EmineRola&layout=compact&langs_count=8&theme=blue-green"/>
