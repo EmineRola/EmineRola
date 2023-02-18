@@ -3,7 +3,7 @@
 - 🌱 I transfer what I learned during the education process to my projects in the most professional way.
 - 👯 I am highly motivated, organized, and I can work well, both independently and as part of a team.
 - ⚡ I am open to learning and I follow new technologies closely.
-- 
+
    
  
   <p align="left" dir="auto">Tech Stack</p>
