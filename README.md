@@ -8,6 +8,7 @@
 - 🌱 I transfer what I learned during the education process to my projects in the most professional way.
 - 👯 I am highly motivated, organized, and I can work well, both independently and as part of a team.
 - ⚡ I am open to learning and I follow new technologies closely.
+- 📫 How to reach me eminekarakelle2424@gmail.com
 
    
  
@@ -22,8 +23,7 @@
 <a href="https://sass-lang.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" style="max-width: 100%;"></a>
 <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" style="max-width: 100%;"></a>
 <a href="https://redux.js.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" style="max-width: 100%;"></a>
-<a href="https://nodejs.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="max-width: 100%;"></a>
-<a href="https://expressjs.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" style="max-width: 100%;"></a>
+
 </p>
   <p align="left" dir="auto">Socials</p>
   
