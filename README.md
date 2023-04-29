@@ -1,3 +1,6 @@
+        
+  
+        
         Hi Im Emine 👋
 - ❔ I am a front-end React developer and special education teacher.
 - 🌱 I transfer what I learned during the education process to my projects in the most professional way.
